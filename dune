@@ -1,4 +1,5 @@
 (executable
  (name scaml)
  (libraries shexp.process cmdliner re)
- (preprocess (pps ppx_string ppx_let)))
+ (preprocess
+  (pps ppx_string ppx_let)))

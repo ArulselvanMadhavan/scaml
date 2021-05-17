@@ -1,1 +1,7 @@
 * Work in Progress
+* Commands
+  - dune build @fmt --auto-promote
+  - 
+* TODO
+  - [ ] Fix %%VERSION%%
+  - [ ] 
